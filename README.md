@@ -1,4 +1,4 @@
-# my-project
+# Benjamin's homepage
 
 ## Project setup
 ```
