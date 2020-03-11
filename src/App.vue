@@ -1,18 +1,17 @@
 <template>
   <div id="app">
-    <h1>Need to do sth here</h1>
-    <main-menu/>
+    <top-menu/>
     <router-view></router-view>
   </div>
 </template>
 
 <script>
-import MainMenu from './components/MainMenu.vue'
+import TopMenu from './components/TopMenu.vue'
 
 export default {
   name: 'App',
   components: {
-    MainMenu
+    TopMenu
   }
 }
 </script>
