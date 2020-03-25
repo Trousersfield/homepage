@@ -19,5 +19,10 @@ module.exports = {
     'vue',
   ],
   'rules': {
+    'semi': [2, 'never'],
+    'linebreak-style': 'off',
+    'object-curly-spacing': [2, 'always'],
+    'comma-dangle': [2, 'never'],
+    'space-before-function-paren': [2, 'always']
   },
 };

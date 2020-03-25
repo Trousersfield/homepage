@@ -9,16 +9,16 @@
 
 <script>
 export default {
-  
+
 }
 </script>
 
 <style lang="sass" scoped>
 .top-menu
-  @apply flex flex-row tracking-wide
+  @apply flex flex-row tracking-wide w-full bg-blue-100
 
   >div
-    @apply bg-gray-100 p-4
+    @apply p-4
 
 .router-link-exact-active
   @apply text-blue-600

@@ -5,9 +5,9 @@ module.exports = {
   theme: {
     screens: {
       sm: '640px',
-      md: '768px',
-      lg: '1024px',
-      xl: '1280px',
+      md: '1024px',
+      lg: '1366px',
+      xl: '1600px',
     },
     colors: {
       transparent: 'transparent',
