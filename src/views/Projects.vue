@@ -1,6 +1,7 @@
 <template>
   <div>
-    <div>Here should be my projects, refer to Github</div>
+    <div>Short overview for selected project.
+      Visit my github for more information</div>
     <div class="project-grid">
       <project-card
         v-for="project in projects"

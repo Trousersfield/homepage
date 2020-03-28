@@ -23,6 +23,7 @@ module.exports = {
     'linebreak-style': 'off',
     'object-curly-spacing': [2, 'always'],
     'comma-dangle': [2, 'never'],
-    'space-before-function-paren': [2, 'always']
+    'space-before-function-paren': [2, 'always'],
+    'arrow-parens': 'off'
   },
 };
