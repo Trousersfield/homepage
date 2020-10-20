@@ -1503,12 +1503,12 @@
     thread-loader "^2.1.3"
     webpack "^4.0.0"
 
-"@vue/cli-plugin-eslint@^4.5.6":
-  version "4.5.6"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-eslint/-/cli-plugin-eslint-4.5.6.tgz#d6721bc96f797b9d978e13bd0afd39999f92caf1"
-  integrity sha512-maG3dy64pGVT9mMQq7KvP6kbBK6TeVgcj1aa1QwzT5yrw65E2So8bKMrEMEjy53b88bgR9jZ7gshOks00jrYsg==
+"@vue/cli-plugin-eslint@^4.5.7":
+  version "4.5.7"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-eslint/-/cli-plugin-eslint-4.5.7.tgz#e66c0011f8d58bd86ee525f2062c6dab2c4272da"
+  integrity sha512-6fWob1xh2W0uif2++YhNiBWITDBsAEktdgnLRgIgM/UqUg9oFpz9tqs0i85PQwjUDIn/erMT2ID3hnOncYTxxQ==
   dependencies:
-    "@vue/cli-shared-utils" "^4.5.6"
+    "@vue/cli-shared-utils" "^4.5.7"
     eslint-loader "^2.2.1"
     globby "^9.2.0"
     inquirer "^7.1.0"
@@ -9024,10 +9024,10 @@ vue-loader@^15.9.2:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
-vue-router@^3.4.6:
-  version "3.4.6"
-  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.4.6.tgz#f7bda2c9a43d39837621c9a02ba7789f5daa24b2"
-  integrity sha512-kaXnB3pfFxhAJl/Mp+XG1HJMyFqrL/xPqV7oXlpXn4AwMmm6VNgf0nllW8ksflmZANfI4kdo0bVn/FYSsAolPQ==
+vue-router@^3.4.7:
+  version "3.4.7"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.4.7.tgz#bf189bafd16f4e4ef783c4a6250a3090f2c1fa1b"
+  integrity sha512-CbHXue5BLrDivOk5O4eZ0WT4Yj8XwdXa4kCnsEIOzYUPF/07ZukayA2jGxDCJxLc9SgVQX9QX0OuGOwGlVB4Qg==
 
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.2"
