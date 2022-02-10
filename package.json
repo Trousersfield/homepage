@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.9.1",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "tailwindcss": "^1.9.6",
     "sass-loader": "^11.0.1",
     "vue": "^2.6.12",
